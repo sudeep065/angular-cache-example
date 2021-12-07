@@ -1,2 +1,6 @@
-# angular-cache-example
-To show the angular way to cache httprequests
+# AngularCacheExample
+
+To test it simply run :
+`npm install` and `npm run start`
+
+Then navigate to `http://localhost:4200/users`
